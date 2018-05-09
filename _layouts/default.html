@@ -13,6 +13,14 @@
     body {background: violet; }
   </style>
   
+  {%- for post in site.posts -%}
+
+{{ post.title }}
+
+{{ post.content }}
+
+{%- endfor -%}
+  
   
 </body>
 </html>
