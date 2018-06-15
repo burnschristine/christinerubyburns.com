@@ -4,11 +4,85 @@ layout: home
 
 <h1>Homepage</h1>
 
+
+
+
+
+
 {{ content }}
 {%- for post in site.posts -%}
-<ul>
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  <li>
-</ul>
+
+<main class="container">
+    <section class="hero is-fullheight">
+  <div class="hero-body">
+    <div class="container">
+      <img src="img/christineburnslogo.png" alt="christineburnslogo">
+      </h2>
+    </div>
+  </div>
+</section>
+<div class="tabs is-centered">
+  <ul>
+    <li class="is-active">
+      <a>
+        <span class="icon is-small"><i class="fas fa-image" aria-hidden="true"></i></span>
+        <span>Blog</span>
+      </a>
+    </li>
+    <li>
+      <a>
+        <span class="icon is-small"><i class="fas fa-music" aria-hidden="true"></i></span>
+        <span>About</span>
+      </a>
+    </li>
+    <li>
+      <a>
+        <span class="icon is-small"><i class="fas fa-film" aria-hidden="true"></i></span>
+        <span>Contact</span>
+      </a>
+    </li>
+    <li>
+      <a>
+        <span class="icon is-small"><i class="far fa-file-alt" aria-hidden="true"></i></span>
+        <span>Portfolio</span>
+      </a>
+    </li>
+  </ul>
+</div>    
+
+
+
+      <h1 class="title"> {{ site.title }} </h1>  
+    
+    <!-- To make a set of 3 columns use the following expression (check formula with colin): article.columns>section.column *3 -->
+    <article class="columns">
+      <section class="column">
+        <h2> Events</h2>
+      </section>
+      <section class="column">
+        <h2> Posts </h2>
+      </section>
+      <section class="column">
+        <h2> Rates</h2>
+       <table class="table">
+         <tr>
+           <th>City</th>
+           <th>Rates</th>
+         </tr>
+         <tr>
+           <th>Spokane</th>
+           <th>$50</th>
+         </tr>
+         <tr>
+           <th>Tri-Cities</th>
+           <th>$150</th>
+         </tr>
+        </table>
+      </section>
+    </article>
+    
+  </main>
+
+
+
 {%- endfor -%}
