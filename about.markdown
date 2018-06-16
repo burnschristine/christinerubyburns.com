@@ -2,6 +2,7 @@
 title: A Polymath in Process
 layout: home
 ---
+
  <main class="container">
     <section class="hero is-fullheight">
   <div class="hero-body">
