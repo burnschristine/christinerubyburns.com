@@ -46,12 +46,12 @@ layout: home
     <div class="column is-half">
   <div class="column">
       <h2> Text & Title </h2>
-   <img src="christinerubyburns.com/img/textandtitle.png" alt="text and title screenshot"> 
+   <img src=""https://burnschristine.github.io/christinerubyburns.com/img/textandtitle.png" alt="text and title screenshot"> 
   </div>
   <div class="column is-half">
    <div class="column"
           <h2> Course Evaluations </h2>
-<img src="christinerubyburns.com/img/coursevals.png" alt="course evaluations">  </div>
+<img src=""https://burnschristine.github.io/christinerubyburns.com/img/coursevals.png" alt="course evaluations">  </div>
  </div>
   </div>
  </section>
