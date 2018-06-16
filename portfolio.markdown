@@ -40,4 +40,20 @@ layout: home
     </li>
   </ul>
 </div>   
+ 
+ <section>
+ <div class="columns">
+    <div class="column is-half">
+  <div class="column">
+   <img src="" alt=""> 
+   <h2> Text & Title </h2>
+  </div>
+  <div class="column is-half">
+<img src="" alt="">  </div>
+  <h2> Course Evaluations </h2>
+ </div>
+  </div>
+ </section>
+ 
+ 
 
