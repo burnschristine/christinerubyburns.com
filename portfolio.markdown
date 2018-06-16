@@ -45,10 +45,11 @@ layout: home
  <div class="columns">
     <div class="column is-half">
   <div class="column">
-   <img src="" alt=""> 
+   <img src="christinerubyburns.com/img/textandtitle.png" alt="text and title screenshot"> 
    <h2> Text & Title </h2>
   </div>
   <div class="column is-half">
+   <div class="colum"
 <img src="" alt="">  </div>
   <h2> Course Evaluations </h2>
  </div>
