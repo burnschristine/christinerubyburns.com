@@ -7,7 +7,6 @@ layout: home
   <div class="hero-body">
     <div class="container">
       <img src="https://burnschristine.github.io/christinerubyburns.com/img/titlepage.png" alt="christineburnslogo">
-
     </div>
   </div>
 </section>
@@ -15,19 +14,19 @@ layout: home
   <ul>
     <li class="is-active">
       <a>
-        <span class="icon is-small"><i class="fas fa-image" aria-hidden="true"></i></span>
-        <span>Blog</span>
+        <span class="icon is-small"><i class="fab fa-angellist" aria-hidden="true"></i></span>
+        <span>Home</span>
       </a>
     </li>
     <li>
       <a>
-        <span class="icon is-small"><i class="fas fa-music" aria-hidden="true"></i></span>
+        <span class="icon is-small"><i class="fas fa-female" aria-hidden="true"></i></span>
         <span>About</span>
       </a>
     </li>
     <li>
       <a>
-        <span class="icon is-small"><i class="fas fa-film" aria-hidden="true"></i></span>
+        <span class="icon is-small"><i class="fas fa-address-card" aria-hidden="true"></i></span>
         <span>Contact</span>
       </a>
     </li>
