@@ -19,7 +19,7 @@ layout: home
       </a>
     </li>
     <li>
-      <a>
+      <a href="https://burnschristine.github.io/christinerubyburns.com/about.markdown">
         <span class="icon is-small"><i class="fas fa-female" aria-hidden="true"></i></span>
         <span>About</span>
       </a>
