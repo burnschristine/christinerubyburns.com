@@ -52,12 +52,10 @@ layout: home
  <section>
  <div class="columns">
     <div class="column is-half">
-  <div class="column">
       <h2> Text & Title </h2>
    <img class="image is-3by5" src=""https://burnschristine.github.io/christinerubyburns.com/img/textandtitle.png" alt="text and title screenshot"> 
   </div>
   <div class="column is-half">
-   <div class="column"
           <h2> Course Evaluations </h2>
 <img class="image is-3by5" src=""https://burnschristine.github.io/christinerubyburns.com/img/coursevals.png" alt="course evaluations"> 
      </div>
