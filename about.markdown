@@ -1,6 +1,5 @@
 ---
 title: A Polymath in Process
-layout: home
 ---
 
  <main class="container">
