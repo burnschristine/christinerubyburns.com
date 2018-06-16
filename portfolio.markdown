@@ -54,12 +54,12 @@ layout: home
     <div class="column is-half">
   <div class="column">
       <h2> Text & Title </h2>
-   <img src=""https://burnschristine.github.io/christinerubyburns.com/img/textandtitle.png" alt="text and title screenshot"> 
+   <img class="image is-3by5" src=""https://burnschristine.github.io/christinerubyburns.com/img/textandtitle.png" alt="text and title screenshot"> 
   </div>
   <div class="column is-half">
    <div class="column"
           <h2> Course Evaluations </h2>
-<img src=""https://burnschristine.github.io/christinerubyburns.com/img/coursevals.png" alt="course evaluations"> 
+<img class="image is-3by5" src=""https://burnschristine.github.io/christinerubyburns.com/img/coursevals.png" alt="course evaluations"> 
      </div>
  </div>
   </div>
