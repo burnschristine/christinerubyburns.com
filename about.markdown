@@ -2,6 +2,7 @@
 title: A Polymath in Process
 layout: home
 ---
+
 <h1> Hey, hi, and hello </h1>
 <div class="container is-fluid">
   <div class="notification">
