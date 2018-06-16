@@ -39,7 +39,15 @@ layout: home
       </a>
     </li>
   </ul>
-</div>   
+</div>  
+ 
+ <section> 
+ <a href="">
+  <button>
+   PDF Portfolio
+  </button>
+ </a>
+ </section>
  
  <section>
  <div class="columns">
@@ -51,7 +59,8 @@ layout: home
   <div class="column is-half">
    <div class="column"
           <h2> Course Evaluations </h2>
-<img src=""https://burnschristine.github.io/christinerubyburns.com/img/coursevals.png" alt="course evaluations">  </div>
+<img src=""https://burnschristine.github.io/christinerubyburns.com/img/coursevals.png" alt="course evaluations"> 
+     </div>
  </div>
   </div>
  </section>
