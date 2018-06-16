@@ -6,7 +6,7 @@ layout: home
     <section class="hero is-fullheight">
   <div class="hero-body">
     <div class="container">
-      <img src="christinerubyburns.com/img/Personal_Logo.png" alt="christineburnslogo">
+      <img src="christinerubyburns.com/img/titlepage.png" alt="christineburnslogo">
       </h2>
     </div>
   </div>
