@@ -19,19 +19,19 @@ layout: home
       </a>
     </li>
     <li>
-      <a href="https://burnschristine.github.io/christinerubyburns.com/about.markdown">
+      <a href="https://burnschristine.github.io/christinerubyburns.com/about/">
         <span class="icon is-small"><i class="fas fa-female" aria-hidden="true"></i></span>
         <span>About</span>
       </a>
     </li>
     <li>
-      <a href="https://burnschristine.github.io/christinerubyburns.com/contact.markdown">
+      <a href="https://burnschristine.github.io/christinerubyburns.com/contact/">
         <span class="icon is-small"><i class="fas fa-address-card" aria-hidden="true"></i></span>
         <span>Contact</span>
       </a>
     </li>
     <li>
-      <a href="https://burnschristine.github.io/christinerubyburns.com/about.portfolio">
+      <a href="https://burnschristine.github.io/christinerubyburns.com/portfolio/">
         <span class="icon is-small"><i class="far fa-file-alt" aria-hidden="true"></i></span>
         <span>Portfolio</span>
       </a>
