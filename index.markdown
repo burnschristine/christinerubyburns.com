@@ -25,13 +25,13 @@ layout: home
       </a>
     </li>
     <li>
-      <a>
+      <a href="https://burnschristine.github.io/christinerubyburns.com/contact.markdown">
         <span class="icon is-small"><i class="fas fa-address-card" aria-hidden="true"></i></span>
         <span>Contact</span>
       </a>
     </li>
     <li>
-      <a>
+      <a href="https://burnschristine.github.io/christinerubyburns.com/about.portfolio">
         <span class="icon is-small"><i class="far fa-file-alt" aria-hidden="true"></i></span>
         <span>Portfolio</span>
       </a>
